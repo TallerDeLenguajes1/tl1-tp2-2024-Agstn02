@@ -1,0 +1,6 @@
+2 - f)
+* No puedo  er el archivo tp2_1_2.c. Porque ese archivo pertenece a la branch Opcion_2, por lo tanto no existe en este working directory.
+
+*Al ejecutar el gitk --all se pueden ver los commits hechos en la rama main y el commit hecho en la rama Opcion_2.
+
+*Luego de hacer el merge de la rama Opcion_2 al ejecutar el gitk se puede ver que ahora estan unidas.
